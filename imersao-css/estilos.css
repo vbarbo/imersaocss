@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2019/06/07/12/27/texture-4258163_960_720.jpg);
+    background-size: auto 112vh;
+    font-family: Futura;
+    height: 112vh;
+  }
+  
+  .menu {
+    background-color: grey;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: black;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    font-style: italic;
+  }
